@@ -1,7 +1,7 @@
-# Mastering-React
+#<h1> Mastering-React</h1>
 
 <style>
-body{
+h1{
 color:"blue"
 }
 </style>
